@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: examples
-  description: Example local component with TechDocs
+  name: from-github
+  description: coming-from-github
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
